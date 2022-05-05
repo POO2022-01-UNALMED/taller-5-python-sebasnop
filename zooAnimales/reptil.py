@@ -1,4 +1,4 @@
-from animal import Animal
+from zooAnimales.animal import Animal
 
 class Reptil(Animal):
     def __init__(self, nombre, edad, habitat, genero, colorEscamas, largoCola):
